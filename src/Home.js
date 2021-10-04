@@ -42,27 +42,22 @@ function Home() {
         <li>
           <p>
             <strong>Create/Remove</strong> your own products that will be
-            available for all users.
+            available for all users;
           </p>
         </li>
         <li>
           <p>
-            <strong>Add</strong> to favourite any product.
+            <strong>Add</strong> to favourite any product;
           </p>
         </li>
         <li>
           <p>
-            <strong>Service</strong> refers to the Application.
+            <strong>Add photo/image</strong> to your products;
           </p>
         </li>
         <li>
           <p>
-            <strong>Add photo/image</strong> to your products.
-          </p>
-        </li>
-        <li>
-          <p>
-            <strong>Verify</strong> previuos orders
+            <strong>Verify</strong> previuos orders.
           </p>
         </li>
       </ul>
