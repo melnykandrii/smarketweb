@@ -5,13 +5,14 @@ function Home() {
       <h1 className="tc">Information</h1>
       <p className="tc">Last updated: September 30, 2021</p>
       <p>
-        "Simple-Market"is a non-profit demo application with the main purpose to
-        demonstrate its functions, it is free and available to everyone older 13
-        years old, and assumes the use of third-party tools and technologies in
-        processing, such as authentication and storage information. "Simple
-        Market".
-        {"\n"} As a demo application all data is only for demonstation purpose
-        and could not be treated as a real or valid. {"\n"} As a user you can:
+        "Simple-Market" is a non-profit demo application with the main purpose
+        to demonstrate its functions, it is free and available to everyone older
+        than 13 years old, and assumes the use of third-party tools and
+        technologies in processing, such as authentication and storage
+        information.
+        {"\n"} As a demo application, all data is only for demonstration
+        purposes and could not be treated as real or valid. {"\n"} As a user you
+        can:
       </p>
       <ul>
         <li>
@@ -57,7 +58,7 @@ function Home() {
         </li>
         <li>
           <p>
-            <strong>Verify</strong> previuos orders.
+            <strong>Verify</strong> previous orders.
           </p>
         </li>
       </ul>
