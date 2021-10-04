@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smarketweb/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/smarketweb/static/js/main.ed0a345e.chunk.js",
-    "main.js.map": "/smarketweb/static/js/main.ed0a345e.chunk.js.map",
+    "main.js": "/smarketweb/static/js/main.a1b42f9f.chunk.js",
+    "main.js.map": "/smarketweb/static/js/main.a1b42f9f.chunk.js.map",
     "runtime-main.js": "/smarketweb/static/js/runtime-main.0bc32895.js",
     "runtime-main.js.map": "/smarketweb/static/js/runtime-main.0bc32895.js.map",
     "static/css/2.31461e4f.chunk.css": "/smarketweb/static/css/2.31461e4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.987c7bf9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.ed0a345e.chunk.js"
+    "static/js/main.a1b42f9f.chunk.js"
   ]
 }
