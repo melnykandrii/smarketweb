@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <div className="tj ph7 pv4 v-top">
+    <div className="tj ph2 pv4 v-top">
       <h1 className="tc">Simple-Market</h1>
       <h1 className="tc">Information</h1>
       <p className="tc">Last updated: September 30, 2021</p>
